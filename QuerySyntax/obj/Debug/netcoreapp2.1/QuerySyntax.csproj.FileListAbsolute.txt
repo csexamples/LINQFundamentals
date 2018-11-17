@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/bin/Debug/netcoreapp2.1/QuerySyntax.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/bin/Debug/netcoreapp2.1/QuerySyntax.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/bin/Debug/netcoreapp2.1/QuerySyntax.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/bin/Debug/netcoreapp2.1/QuerySyntax.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/bin/Debug/netcoreapp2.1/QuerySyntax.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/obj/Debug/netcoreapp2.1/QuerySyntax.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/obj/Debug/netcoreapp2.1/QuerySyntax.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/obj/Debug/netcoreapp2.1/QuerySyntax.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/obj/Debug/netcoreapp2.1/QuerySyntax.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/QuerySyntax/obj/Debug/netcoreapp2.1/QuerySyntax.pdb

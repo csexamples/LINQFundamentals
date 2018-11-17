@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/Queries.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/Queries.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/Queries.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/Queries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/Queries.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/Queries.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/Queries.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/Queries.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/Queries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/Queries.pdb

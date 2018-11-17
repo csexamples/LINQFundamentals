@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/bin/Debug/netcoreapp2.1/FuncType.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/bin/Debug/netcoreapp2.1/FuncType.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/bin/Debug/netcoreapp2.1/FuncType.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/bin/Debug/netcoreapp2.1/FuncType.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/bin/Debug/netcoreapp2.1/FuncType.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/obj/Debug/netcoreapp2.1/FuncType.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/obj/Debug/netcoreapp2.1/FuncType.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/obj/Debug/netcoreapp2.1/FuncType.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/obj/Debug/netcoreapp2.1/FuncType.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/FuncType/obj/Debug/netcoreapp2.1/FuncType.pdb

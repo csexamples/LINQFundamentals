@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/QueriesWithDeferredExecution.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/QueriesWithDeferredExecution.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/QueriesWithDeferredExecution.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/QueriesWithDeferredExecution.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/bin/Debug/netcoreapp2.1/QueriesWithDeferredExecution.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/QueriesWithDeferredExecution.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/QueriesWithDeferredExecution.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/QueriesWithDeferredExecution.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/QueriesWithDeferredExecution.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Queries/obj/Debug/netcoreapp2.1/QueriesWithDeferredExecution.pdb

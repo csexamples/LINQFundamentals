@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/bin/Debug/netcoreapp2.1/LambdaExpressions.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/LambdaExpressions/obj/Debug/netcoreapp2.1/LambdaExpressions.pdb

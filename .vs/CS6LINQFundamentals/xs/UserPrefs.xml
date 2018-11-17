@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F1E0DF10-1CF3-42C7-AD9F-25D6D893BBA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.DirectoryFilesDisplay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQAndEntityFramework/Program.cs">
+    <Files>
+      <File FileName="LINQAndEntityFramework/Program.cs" Line="29" Column="13" />
+      <File FileName="LINQAndEntityFramework/CarDb.cs" Line="5" Column="5" />
+      <File FileName="LINQAndEntityFramework/Car.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LambdaExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FilteringOrderingProjecting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LINQToXML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QueriesWithDeferredExecution PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LINQAndEntityFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExtensionMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.QuerySyntax PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.JoiningGroupingAggregating PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FuncType PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

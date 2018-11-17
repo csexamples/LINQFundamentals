@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/bin/Debug/netcoreapp2.1/ExtensionMethods.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/bin/Debug/netcoreapp2.1/ExtensionMethods.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/bin/Debug/netcoreapp2.1/ExtensionMethods.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/bin/Debug/netcoreapp2.1/ExtensionMethods.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/bin/Debug/netcoreapp2.1/ExtensionMethods.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/Extensions/obj/Debug/netcoreapp2.1/ExtensionMethods.pdb

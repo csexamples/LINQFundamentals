@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/obj/Debug/netcoreapp2.1/DirectoryFiles.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/obj/Debug/netcoreapp2.1/DirectoryFiles.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/obj/Debug/netcoreapp2.1/DirectoryFiles.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/bin/Debug/netcoreapp2.1/DirectoryFiles.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/bin/Debug/netcoreapp2.1/DirectoryFiles.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/bin/Debug/netcoreapp2.1/DirectoryFiles.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/bin/Debug/netcoreapp2.1/DirectoryFiles.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/bin/Debug/netcoreapp2.1/DirectoryFiles.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/obj/Debug/netcoreapp2.1/DirectoryFiles.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/DirectoryFiles/obj/Debug/netcoreapp2.1/DirectoryFiles.pdb

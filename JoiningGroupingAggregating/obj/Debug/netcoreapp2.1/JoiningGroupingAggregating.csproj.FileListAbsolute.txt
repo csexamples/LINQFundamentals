@@ -1,0 +1,12 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/fuel.csv
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/manufacturers.csv
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/JoiningGroupingAggregating.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/JoiningGroupingAggregating.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/JoiningGroupingAggregating.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/JoiningGroupingAggregating.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/bin/Debug/netcoreapp2.1/JoiningGroupingAggregating.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/obj/Debug/netcoreapp2.1/JoiningGroupingAggregating.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/obj/Debug/netcoreapp2.1/JoiningGroupingAggregating.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/obj/Debug/netcoreapp2.1/JoiningGroupingAggregating.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/obj/Debug/netcoreapp2.1/JoiningGroupingAggregating.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CS6LINQFundamentals/JoiningGroupingAggregating/obj/Debug/netcoreapp2.1/JoiningGroupingAggregating.pdb
